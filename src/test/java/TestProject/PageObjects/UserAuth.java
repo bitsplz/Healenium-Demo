@@ -2,6 +2,7 @@ package TestProject.PageObjects;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import utils.UtilsConfig;
 
 import java.util.Properties;
@@ -19,6 +20,7 @@ public class UserAuth {
         this.properties = UtilsConfig.getProperties("SiteData");
     }
     public void login(){
+        //WebElement userName variable to make it re-usable
         driver.findElement(username).sendKeys(properties.getProperty("username"));
         driver.findElement(password).sendKeys(properties.getProperty("password"));
         driver.findElement(loginButton).click();
