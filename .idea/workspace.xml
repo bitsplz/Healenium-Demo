@@ -1,11 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0163b4fd-3aeb-4680-8fa4-e9a7380858fa" name="Changes" comment="" />
+    <list default="true" id="0163b4fd-3aeb-4680-8fa4-e9a7380858fa" name="Changes" comment="selenium cases added with hlm poc and reporter">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/UtilsConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/SiteData.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/healenium.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/healenium.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestProject/PageObjects/HealeniumObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestProject/PageObjects/HealeniumObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestProject/PageObjects/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestProject/PageObjects/UserAuth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestProject/Tests/Healenium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestProject/Tests/HealeniumTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestProject/Tests/HomePageTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestProject/Tests/LoginTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Smoke Suite/Login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Smoke Suite/Login.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Smoke Suite/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-TestProject.Tests.LoginTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Smoke Suite/Login.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Smoke Suite/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Smoke Suite/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Smoke Suite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Smoke Suite/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Smoke Suite/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Smoke Suite/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Smoke Suite/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Smoke Suite/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Smoke Suite/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Smoke Suite/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-reports1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-reports2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng.css" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -15,17 +75,202 @@
     </option>
   </component>
   <component name="ProjectId" id="2LhEIzpMGcLMDhnNO2lFjs1Gk3C" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ToolWindowRun.ShowToolbar": "false",
+    "last_opened_file_path": "C:/Users/mujtaba.afzal/IdeaProjects/IH_Q1_23",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mujtaba.afzal\IdeaProjects\IH_Q1_23\src\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.HealeniumTests">
+    <configuration name="IH_Q1_23 [hlm-report-mvn:initReport]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="hlm-report-mvn:initReport" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="C:/Users/mujtaba.afzal/IdeaProjects/IH_Q1_23/src/test/java/TestProject/Tests/runner.xml" type="TestNG" nameIsGenerated="true">
+      <module name="IH_Q1_23" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/TestProject/Tests/runner.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HealeniumTests" type="TestNG" nameIsGenerated="true">
+      <module name="IH_Q1_23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestProject.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestProject.Tests" />
+      <option name="MAIN_CLASS_NAME" value="TestProject.Tests.HealeniumTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HealeniumTests.testChangeClassName" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="IH_Q1_23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestProject.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestProject.Tests" />
+      <option name="MAIN_CLASS_NAME" value="TestProject.Tests.HealeniumTests" />
+      <option name="METHOD_NAME" value="testChangeClassName" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HealeniumTests.testChangeId" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="IH_Q1_23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestProject.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestProject.Tests" />
+      <option name="MAIN_CLASS_NAME" value="TestProject.Tests.HealeniumTests" />
+      <option name="METHOD_NAME" value="testChangeId" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HealeniumTests.testChangeName" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="IH_Q1_23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestProject.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestProject.Tests" />
+      <option name="MAIN_CLASS_NAME" value="TestProject.Tests.HealeniumTests" />
+      <option name="METHOD_NAME" value="testChangeName" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HealeniumTests.testChangeXpath" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="IH_Q1_23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestProject.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestProject.Tests" />
+      <option name="MAIN_CLASS_NAME" value="TestProject.Tests.HealeniumTests" />
+      <option name="METHOD_NAME" value="testChangeXpath" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HealeniumTests.testCheckBoxes" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="IH_Q1_23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestProject.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestProject.Tests" />
+      <option name="MAIN_CLASS_NAME" value="TestProject.Tests.HealeniumTests" />
+      <option name="METHOD_NAME" value="testCheckBoxes" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.IH_Q1_23 [hlm-report-mvn:initReport]" />
+      <item itemvalue="TestNG.C:/Users/mujtaba.afzal/IdeaProjects/IH_Q1_23/src/test/java/TestProject/Tests/runner.xml" />
+      <item itemvalue="TestNG.HealeniumTests" />
+      <item itemvalue="TestNG.HealeniumTests.testChangeId" />
+      <item itemvalue="TestNG.HealeniumTests.testChangeClassName" />
+      <item itemvalue="TestNG.HealeniumTests.testChangeName" />
+      <item itemvalue="TestNG.HealeniumTests.testChangeXpath" />
+      <item itemvalue="TestNG.HealeniumTests.testCheckBoxes" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.HealeniumTests.testChangeId" />
+        <item itemvalue="TestNG.HealeniumTests.testChangeClassName" />
+        <item itemvalue="TestNG.HealeniumTests.testCheckBoxes" />
+        <item itemvalue="TestNG.HealeniumTests.testChangeName" />
+        <item itemvalue="TestNG.HealeniumTests.testChangeXpath" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,6 +280,40 @@
       <option name="presentableId" value="Default" />
       <updated>1676314841657</updated>
     </task>
+    <task id="LOCAL-00001" summary="hlm backend setup with maven hlm reporter">
+      <created>1676982123824</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676982123824</updated>
+    </task>
+    <task id="LOCAL-00002" summary="selenium cases added with hlm poc and reporter">
+      <created>1677614118602</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677614118602</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="docker-compose.yaml" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="hlm backend setup with maven hlm reporter" />
+    <MESSAGE value="selenium cases added with hlm poc and reporter" />
+    <option name="LAST_COMMIT_MESSAGE" value="selenium cases added with hlm poc and reporter" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.nio.file.FileAlreadyExistsException" package="java.nio.file" />
+          <option name="timeStamp" value="6" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
