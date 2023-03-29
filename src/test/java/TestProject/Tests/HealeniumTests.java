@@ -17,6 +17,7 @@ public class HealeniumTests {
 
     @BeforeClass
     public void setup() {
+        System.setProperty("webdriver.http.factory", "jdk-http-client");
         System.setProperty("webdriver.chrome.driver", "C:\\Users\\mujtaba.afzal\\Documents\\ChromeDriver\\chromedriver.exe");
         delegate = new ChromeDriver();
         //create Self-healing driver
